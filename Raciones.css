@@ -1,0 +1,25 @@
+.fondo {
+    background-color: burlywood;
+}
+
+.title {
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 5%;
+    
+}
+
+.img {
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 3%;
+}
+
+.lista {
+    line-height: 50px;
+    letter-spacing: 5px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 43%;
+    
+}
