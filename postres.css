@@ -1,0 +1,56 @@
+* {
+    font-family: rubik;
+}
+
+header {
+    background-image: url('https://img.freepik.com/free-photo/flower-texture-design_24972-285.jpg?w=1380&t=st=1666345250~exp=1666345850~hmac=af6e6ea3ece8e84027d1e63be7796855c59c7cc66112f356131c86e237b78454');
+}
+
+body {
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 0px;
+}
+
+.header {
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    font-size: 60px;
+    text-align: center;
+    height: 200px
+}
+
+.container {
+    background-image: url('https://img.freepik.com/free-vector/larkspur-by-william-morris_53876-58889.jpg?w=1380&t=st=1666345138~exp=1666345738~hmac=3cb01f1eadbc9a098b32f60f6e16e8b062197bd7ab5864311d6b0d9f60eba4e6');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.postre {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.description {
+    font-size: 20px;
+    background-color:beige;
+    background-blend-mode:luminosity;
+}
+
+img {
+    margin: 20px;
+}
